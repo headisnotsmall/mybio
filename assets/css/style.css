@@ -9,8 +9,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Inconsolata", monosapce;
+  font-family: "Microsoft JhengHei", monosapce;
   color: #0d1e2d;
+  text-align:justify;
 }
 
 a {
@@ -22,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-heading {
-  font-family: "Raleway", sans-serif;
+  font-family: "Microsoft JhengHei", sans-serif;
 }
 
 .section {
