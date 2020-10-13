@@ -147,6 +147,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .testimonial-wrap .testimonial {
   text-align: center;
+  height: 270px;
   max-width: 500px;
   margin: 0 auto;
 }
@@ -196,7 +197,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .testimonial-carousel .owl-dots {
   position: absolute;
-  bottom: 40px;
+  bottom: 25px;
   width: 100%;
   text-align: center;
 }
